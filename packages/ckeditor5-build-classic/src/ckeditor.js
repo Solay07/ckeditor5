@@ -91,6 +91,9 @@ ClassicEditor.defaultConfig = {
 		toolbar: [
 			"imageStyle:full",
 			"imageStyle:side",
+      "imageStyle:alignLeft"
+      "ImageStyle:alignCenter"
+      "ImageStyle:alignRight"
 			"|",
 			"imageTextAlternative",
 		],
